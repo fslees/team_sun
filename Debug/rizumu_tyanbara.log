@@ -1,0 +1,21 @@
+﻿  camera.cpp
+c:\users\icema\desktop\190709_3cross\camera.cpp(65): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\icema\desktop\190709_3cross\camera.cpp(69): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+  cutter.cpp
+  hitline.cpp
+  input.cpp
+  light.cpp
+  lane.cpp
+  main.cpp
+  meshfield.cpp
+  notes.cpp
+c:\users\icema\desktop\190709_3cross\notes.cpp(296): warning C4101: 'absNotePos': ローカル変数は 1 度も使われていません。
+c:\users\icema\desktop\190709_3cross\notes.cpp(296): warning C4101: 'absHitPos': ローカル変数は 1 度も使われていません。
+  objmanager.cpp
+  particle.cpp
+  score.cpp
+  se.cpp
+  sound.cpp
+  star.cpp
+  コードを生成中...
+  rizumu_tyanbara.vcxproj -> C:\Users\icema\Desktop\190709_3cross\Debug\rizumu_tyanbara.exe
